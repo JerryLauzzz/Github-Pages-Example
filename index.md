@@ -8,7 +8,7 @@ layout: default
       <div class="info-card">
         <h1>JerryLiu</h1>
         <a href="http://weibo.com/u/5237802868" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <a href="http://github.com/JerryLauzzz" target="_blank"><img src="/github.png"></a>
+        <a href="http://github.com/JerryLauzzz" target="_blank"><img src="/Plain_Shape.psd"></a>
 <!--         <a href="http://www.douban.com/people/beiyuu/" target="_blank">Git</a> -->
 <!--         <img src="http://www.douban.com/favicon.ico" alt="" width="22"/> -->
 <!--         <a href="http://instagram.com/JerryLiu/" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a> -->
