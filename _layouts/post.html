@@ -8,9 +8,11 @@ layout: default
     <p class="post-date">{{ page.date|date:"%Y-%m-%d" }}</p>
     {{ content }}
     {% include disqus.html %}
+    {% endinclude%}
   </div>
 
   {% include about.html %}
+  {% endinclude%}
 
   <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
   <script src="/js/post.js" type="text/javascript"></script>
