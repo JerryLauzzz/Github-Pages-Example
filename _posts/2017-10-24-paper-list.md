@@ -9,8 +9,7 @@ description: 接下来一段时间我会读一些经典论文，立个flag在这
 # paper list
 
 ## object detection
-read & code
-> * [Overfeat](https://arxiv.org/abs/1312.6229)
+read & code> * [Overfeat](https://arxiv.org/abs/1312.6229)
 > * [Faster Rcnn](https://arxiv.org/abs/1506.01497)
 > * [YOLO](https://arxiv.org/abs/1612.08242)
 > * [SSD](https://arxiv.org/abs/1512.02325)
