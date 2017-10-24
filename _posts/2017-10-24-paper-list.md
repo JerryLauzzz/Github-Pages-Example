@@ -1,6 +1,6 @@
 ---
 layout:       post
-title: Paper I will read and code.
+title: Paper I will read and code
 category: blog
 description: 接下来一段时间我会读一些经典论文，立个flag在这儿
 ---
